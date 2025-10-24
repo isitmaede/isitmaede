@@ -65,8 +65,8 @@ As the **Founder of [Aleef Libya](https://aleeflibya.vercel.app)** 🐾, I built
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maededev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maededev&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=isitmaede&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isitmaede&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="160"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@ As the **Founder of [Aleef Libya](https://aleeflibya.vercel.app)** 🐾, I built
 ### 📈 Activity Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maededev&theme=tokyo-night&hide_border=true&radius=16" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isitmaede&theme=tokyo-night&hide_border=true&radius=16" alt="GitHub Activity Graph" />
 </p>
 
 ---
