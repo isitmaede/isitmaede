@@ -14,7 +14,7 @@ I'm a **Full Stack Developer** who loves turning ideas into digital realities.
 My focus is on building scalable, fast, and user-friendly web applications that make a real impact.  
 As the **Founder of [Aleef](https://aleeflibya.vercel.app)** 🐾, I built a platform that helped **save animals**, raise awareness, and connect the community.  
 
-🌍 **Portfolio:** [maededev.vercel.app](https://maededev.online)  
+🌍 **Portfolio:** [maededev](https://maededev.online)  
 💬 I speak code fluently — and I believe great software mixes logic, art, and empathy.  
 
 ---
